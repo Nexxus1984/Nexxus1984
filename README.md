@@ -23,20 +23,6 @@
   <img src="./assets/nexxus-banner.png" alt="Nexxus – Technology, Automation and AI" width="100%" />
 </p>
 
-<h1 align="center">🌌 N E X X U S</h1>
-
-<p align="center">
-  <strong>TECHNOLOGY · AUTOMATION · ARTIFICIAL INTELLIGENCE</strong>
-</p>
-
-<p align="center">
-  <em>Die Zukunft entdecken. Schritt für Schritt.</em>
-</p>
-
-<p align="center">
-  <code>LEARN</code> &nbsp; <code>BUILD</code> &nbsp; <code>AUTOMATE</code> &nbsp; <code>EXPLORE</code>
-</p>
-
 ---
 
 ## 👨‍🚀 Über mich
