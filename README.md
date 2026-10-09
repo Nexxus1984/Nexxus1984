@@ -17,9 +17,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
-</p>
 ---
 
 ## 👨‍🚀 Über mich
@@ -38,8 +35,9 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 - 🚀 Ich dokumentiere meinen Lernfortschritt auf GitHub.
 - 🔭 Ich möchte aus Ideen funktionierende Projekte entwickeln.
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 🛠️ Technology Universe
 
@@ -59,8 +57,9 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 
 `Artificial Intelligence` `LLMs` `AI Automation`
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 🧭 Meine Lernmission
 
@@ -74,8 +73,9 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 | 🏗️ Terraform | Infrastruktur als Code beschreiben |
 | 🤖 AI & LLMs | KI-Anwendungen und Sprachmodelle kennenlernen |
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 🧪 Mission Log – Meine Lernprojekte
 
@@ -113,8 +113,9 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 
 > Die Labs sind mein Lernplan. Ich ergänze Links, Ergebnisse und Dokumentationen, sobald die jeweiligen Projekte veröffentlicht sind.
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 📊 GitHub Telemetry
 
@@ -128,8 +129,9 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 
 *Die Statistik-Karten werden von einem externen Dienst erzeugt. Sie zeigen verfügbare GitHub-Daten und können verzögert laden oder vorübergehend nicht erreichbar sein.*
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 🎯 Next Objectives
 
@@ -143,8 +145,9 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - [ ] Ein kleines KI- oder LLM-Projekt umsetzen
 - [ ] Projekte mit verständlichen READMEs dokumentieren
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 🪐 Meine Prinzipien
 
@@ -157,8 +160,9 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - **Automate:** wiederkehrende Aufgaben vereinfachen.
 - **Improve:** aus Fehlern lernen und Lösungen verbessern.
 
----
----
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 ## 📡 Connect
 
