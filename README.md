@@ -106,7 +106,7 @@ Ideen, die ich selbstständig umsetzen und nach und nach verbessern möchte.
 
 ## 📫 Kontakt & Austausch
 
-- 🐙 GitHub: @Nexxus1984
+- 🐙 GitHub: https://github.com/Nexxus1984
 
 Ich freue mich darauf, Neues zu lernen, meine Fortschritte zu teilen und mich mit anderen auszutauschen.
 
