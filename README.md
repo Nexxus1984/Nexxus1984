@@ -4,7 +4,6 @@
   <img src="./assets/Nexxus_Banner.png" alt="Nexxus – Technology, Automation and AI" width="100%" />
 </p>
 
-<h1 align="center">🌌 N E X X U S</h1>
 
 <p align="center">
   <strong>TECHNOLOGY · AUTOMATION · ARTIFICIAL INTELLIGENCE</strong>
