@@ -116,11 +116,11 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 ## 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-GITHUB-BENUTZERNAME&show_icons=true&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&icon_color=8B5CF6&locale=de" alt="GitHub-Statistiken von Nexxus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nexxus1984&show_icons=true&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&icon_color=8B5CF6&locale=de" alt="GitHub-Statistiken von Nexxus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-GITHUB-BENUTZERNAME&layout=compact&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&langs_count=8" alt="Häufigste Programmiersprachen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxus1984&layout=compact&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&langs_count=8" alt="Häufigste Programmiersprachen" />
 </p>
 
 *Die Statistik-Karten werden von einem externen Dienst erzeugt. Sie zeigen verfügbare GitHub-Daten und können verzögert laden oder vorübergehend nicht erreichbar sein.*
@@ -163,7 +163,7 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 ## 📡 Connect
 
 <p align="center">
-  <a href="https://github.com/DEIN-GITHUB-BENUTZERNAME">
+  <a href="https://github.com/Nexxus1984">
     <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-0B1224?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub-Projekte" />
   </a>
 </p>
