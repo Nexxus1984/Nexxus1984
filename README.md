@@ -18,11 +18,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="./assets/nexxus-banner.png" alt="Nexxus – Technology, Automation and AI" width="100%" />
-</p>
-
 ---
 
 ## 👨‍🚀 Über mich
