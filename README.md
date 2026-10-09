@@ -36,6 +36,7 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 - 🔭 Ich möchte aus Ideen funktionierende Projekte entwickeln.
 
 ---
+---
 
 ## 🛠️ Technology Universe
 
@@ -56,6 +57,7 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 `Artificial Intelligence` `LLMs` `AI Automation`
 
 ---
+---
 
 ## 🧭 Meine Lernmission
 
@@ -69,6 +71,7 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 | 🏗️ Terraform | Infrastruktur als Code beschreiben |
 | 🤖 AI & LLMs | KI-Anwendungen und Sprachmodelle kennenlernen |
 
+---
 ---
 
 ## 🧪 Mission Log – Meine Lernprojekte
@@ -108,6 +111,7 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 > Die Labs sind mein Lernplan. Ich ergänze Links, Ergebnisse und Dokumentationen, sobald die jeweiligen Projekte veröffentlicht sind.
 
 ---
+---
 
 ## 📊 GitHub Telemetry
 
@@ -121,6 +125,7 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 
 *Die Statistik-Karten werden von einem externen Dienst erzeugt. Sie zeigen verfügbare GitHub-Daten und können verzögert laden oder vorübergehend nicht erreichbar sein.*
 
+---
 ---
 
 ## 🎯 Next Objectives
@@ -136,6 +141,7 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - [ ] Projekte mit verständlichen READMEs dokumentieren
 
 ---
+---
 
 ## 🪐 Meine Prinzipien
 
@@ -148,6 +154,7 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - **Automate:** wiederkehrende Aufgaben vereinfachen.
 - **Improve:** aus Fehlern lernen und Lösungen verbessern.
 
+---
 ---
 
 ## 📡 Connect
