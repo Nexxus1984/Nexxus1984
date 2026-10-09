@@ -1,11 +1,3 @@
-<!-- ═══════════════ NEXXUS // PROFILE CORE ═══════════════ -->
-
-<p align="center">
-  <img src="assets/Nexxus_logo_under_1MB.jpg" alt="Nexxus Logo" width="150">
-</p>
-
-<h1 align="center">N E X X U S  //  1 9 8 4</h1>
-
 <p align="center">
   <strong>EXPLORING THE DIGITAL FRONTIER</strong>
 </p>
