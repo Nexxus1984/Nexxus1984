@@ -12,10 +12,6 @@
   <img src="assets/Nexxus_Banner_2.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
 
-<p align="center">
-  <code>INITIALIZING SYSTEM...</code> &nbsp; <code>[ ONLINE ]</code>
-</p>
-
 ---
 ---
 
