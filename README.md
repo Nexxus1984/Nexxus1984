@@ -1,7 +1,7 @@
 <!-- ═══════════════ NEXXUS · SPACE & NEON ═══════════════ -->
 
 <p align="center">
-  <img src="./assets/nexxus_banner.png" alt="Nexxus – Technology, Automation and AI" width="100%" />
+  <img src="./assets/Nexxus_Banner.png" alt="Nexxus – Technology, Automation and AI" width="100%" />
 </p>
 
 <h1 align="center">🌌 N E X X U S</h1>
