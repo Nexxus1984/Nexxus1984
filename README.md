@@ -17,6 +17,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 ---
 
 ## 👨‍🚀 Über mich
