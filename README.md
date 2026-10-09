@@ -22,19 +22,38 @@ Ich lerne Schritt für Schritt die Welt der Softwareentwicklung kennen. Auf dies
 
 ## 🛠️ Technologien & Tools
 
-Diese Technologien möchte ich kennenlernen und praktisch anwenden:
+Ich beschäftige mich mit modernen Technologien rund um Programmierung, Cloud-Native, Automatisierung und künstliche Intelligenz. Mein Fokus liegt darauf, die Grundlagen zu lernen und das Wissen durch praktische Projekte zu vertiefen.
 
+### 💻 Programming & Version Control
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-\
+### 🐳 Containers & Cloud-Native
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### ⚙️ Infrastructure as Code & Automation
 
-\
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
+### 🤖 Artificial Intelligence & LLMs
 
-*Hinweis: Die Badges zeigen meine Lerninteressen. Ich werde die Liste an meine tatsächlichen Kenntnisse anpassen.*
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Large_Language_Models-0A7B83?style=for-the-badge)
 
+### 🌱 Mein Lernfokus
+
+- Python für Programmierung und Automatisierung
+- Git & GitHub für Versionskontrolle und Zusammenarbeit
+- Docker & Kubernetes für Containerisierung und Orchestrierung
+- Ansible & Terraform für Automatisierung und Infrastructure as Code (IaC)
+- AI & LLMs für intelligente Anwendungen und neue Möglichkeiten der Softwareentwicklung
+
+*Ich erweitere meine Kenntnisse Schritt für Schritt und setze die Technologien nach und nach in eigenen Lernprojekten ein.*
 ---
 
 ## 📂 Meine Lernprojekte
