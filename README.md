@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin DEIN-NAME!
+# 👋 Hallo, ich bin Nexxus!
 
 ### 💻 Coding Beginner | 🚀 Learning by Doing | 🌱 Always Improving
 
@@ -98,7 +98,7 @@ Ideen, die ich selbstständig umsetzen und nach und nach verbessern möchte.
 
 ## 📫 Kontakt & Austausch
 
-- 🐙 GitHub: [@DEIN-BENUTZERNAME](https://github.com/DEIN-BENUTZERNAME)
+- 🐙 GitHub: [@DEIN-BENUTZERNAME](https://github.com/Nexxus1984)
 
 Ich freue mich darauf, Neues zu lernen, meine Fortschritte zu teilen und mich mit anderen auszutauschen.
 
