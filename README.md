@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/Nexxus-Space-Logo.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/NEXXUS_ Neon-Zukunft im All.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
 
 <p align="center">
