@@ -1,3 +1,5 @@
+<!-- ═══════════════ NEXXUS · SPACE & NEON ═══════════════ -->
+
 <p align="center">
   <strong>EXPLORING THE DIGITAL FRONTIER</strong>
 </p>
@@ -16,203 +18,170 @@
 
 ---
 
-<h2 align="center">🌌 // ABOUT THE OPERATOR</h2>
+👨‍🚀 Über mich
+
+Willkommen im digitalen Universum von Nexxus!
+
+Ich lerne Schritt für Schritt moderne Technologien kennen und baue mein Wissen durch praktische Übungen, Experimente und eigene Projekte aus.
+
+Mich interessieren besonders Automatisierung, Cloud-Native-Technologien, Infrastructure as Code sowie künstliche Intelligenz und Large Language Models.
+
+Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen zu sammeln und kontinuierlich bessere Lösungen zu entwickeln.
+
+🌱 Ich lerne durch praktische Projekte und Experimente.
+
+🧠 Ich beschäftige mich mit Python, Infrastruktur und KI.
+
+⚙️ Ich entdecke Automatisierung und moderne Entwicklungswerkzeuge.
+
+🚀 Ich dokumentiere meinen Lernfortschritt auf GitHub.
+
+🔭 Ich möchte aus Ideen funktionierende Projekte entwickeln.
+
+🛠️ Technology Universe
+
+💻 Programming & Version Control
+
+Python Git GitHub
+
+🐳 Containers & Cloud-Native
+
+Docker Kubernetes
+
+⚙️ Infrastructure as Code & Automation
+
+Ansible Terraform
+
+🤖 Artificial Intelligence
+
+Artificial Intelligence LLMs AI Automation
+
+🧭 Meine Lernmission
+
+Bereich
+
+Mein Fokus
+
+🐍 Python
+
+Programmierung und Skripting
+
+🔀 Git & GitHub
+
+Versionskontrolle und Projektverwaltung
+
+🐳 Docker
+
+Container erstellen und verwalten
+
+☸️ Kubernetes
+
+Container-Orchestrierung verstehen
+
+⚙️ Ansible
+
+Konfiguration und Automatisierung
+
+🏗️ Terraform
+
+Infrastruktur als Code beschreiben
+
+🤖 AI & LLMs
+
+KI-Anwendungen und Sprachmodelle kennenlernen
+
+🧪 Mission Log – Meine Lernprojekte
+
+Hier dokumentiere ich Übungen, Experimente und Projekte, mit denen ich neue Technologien praktisch kennenlerne.
+
+🐍 Python Lab
+
+Kleine Skripte und Programme, um Programmiergrundlagen zu lernen und wiederkehrende Aufgaben zu automatisieren.
+
+Projektideen: Datei-Organizer, Systeminformationen auslesen, kleine CLI-Tools.
+
+🐳 Container Lab
+
+Erste Anwendungen mit Docker verpacken und deren Ausführung nachvollziehen.
+
+Projektideen: Eine einfache Python-Anwendung containerisieren und mit einer eigenen Docker-Konfiguration starten.
+
+☸️ Cloud-Native Lab
+
+Die Grundlagen von Kubernetes und dem Betrieb containerisierter Anwendungen erkunden.
+
+Projektideen: Eine kleine Anwendung lokal bereitstellen und Deployments sowie Services kennenlernen.
+
+🏗️ Infrastructure Lab
+
+Mit Ansible und Terraform experimentieren, um Konfigurationen und Infrastruktur reproduzierbar zu beschreiben.
+
+Projektideen: Eine Testumgebung automatisiert konfigurieren und Infrastruktur-Code versionieren.
+
+🤖 AI & LLM Lab
+
+Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente durchführen.
+
+Projektideen: Ein einfacher Dokumentationsassistent, ein Prompt-Experiment oder ein kleines Python-Projekt mit einem LLM.
+
+Die Labs sind mein Lernplan. Ich ergänze Links, Ergebnisse und Dokumentationen, sobald die jeweiligen Projekte veröffentlicht sind.
+
+📊 GitHub Telemetry
 
 <p align="center">
-  Willkommen in meinem digitalen Labor.
-</p>
-
-Ich bin auf einer Reise durch die Welt der IT, Automatisierung und künstlichen Intelligenz. Ich baue mein Wissen Schritt für Schritt auf, experimentiere mit neuen Technologien und dokumentiere meine Fortschritte in echten Projekten.
-
-Mein Ziel: technische Zusammenhänge verstehen, praktische Lösungen entwickeln und aus jedem Experiment lernen.
-
-<p align="center">
-  <code>LEARN → BUILD → TEST → IMPROVE → REPEAT</code>
-</p>
-
----
-
-<h2 align="center">🖥️ // SYSTEM STATUS</h2>
-
-| MODULE | STATUS |
-|:--|:--|
-| Git & GitHub | `LEARNING / ACTIVE` |
-| Python Development | `LEARNING / ACTIVE` |
-| Docker & Containers | `EXPLORING` |
-| Kubernetes | `EXPLORING` |
-| Ansible & Automation | `EXPLORING` |
-| Terraform & IaC | `EXPLORING` |
-| Artificial Intelligence | `RESEARCHING` |
-| LLMs & AI Tools | `RESEARCHING` |
-
-<p align="center">
-  <code>OPERATOR LEVEL: BEGINNER</code><br>
-  <code>MISSION: CONTINUOUS IMPROVEMENT</code>
-</p>
-
----
-
-<h2 align="center">⚙️ // TECHNOLOGY MATRIX</h2>
-
-<h3>01 — DEVELOPMENT</h3>
-
-<p>
-  <code>PYTHON</code> &nbsp;
-  <code>GIT</code> &nbsp;
-  <code>GITHUB</code> &nbsp;
-  <code>LINUX</code>
-</p>
-
-<h3>02 — INFRASTRUCTURE</h3>
-
-<p>
-  <code>DOCKER</code> &nbsp;
-  <code>KUBERNETES</code> &nbsp;
-  <code>TERRAFORM</code>
-</p>
-
-<h3>03 — AUTOMATION</h3>
-
-<p>
-  <code>ANSIBLE</code> &nbsp;
-  <code>INFRASTRUCTURE AS CODE</code> &nbsp;
-  <code>DEVOPS</code>
-</p>
-
-<h3>04 — ARTIFICIAL INTELLIGENCE</h3>
-
-<p>
-  <code>AI</code> &nbsp;
-  <code>LLMs</code> &nbsp;
-  <code>AI AUTOMATION</code> &nbsp;
-  <code>PROMPT ENGINEERING</code>
-</p>
-
----
-
-<h2 align="center">🚀 // ACTIVE MISSIONS</h2>
-
-<details>
-  <summary><strong>MISSION 001 — Git & GitHub Foundations</strong></summary>
-
-  - Repositories, commits and branches verstehen
-  - Änderungen sicher synchronisieren
-  - Projekte dokumentieren
-  - Versionsverwaltung im Alltag anwenden
-
-  **Status:** `IN PROGRESS`
-</details>
-
-<details>
-  <summary><strong>MISSION 002 — Python Lab</strong></summary>
-
-  - Grundlagen und Datenstrukturen lernen
-  - Kleine Automatisierungsskripte entwickeln
-  - Fehler analysieren und beheben
-  - Praktische Tools für den Alltag bauen
-
-  **Status:** `PLANNED / LEARNING`
-</details>
-
-<details>
-  <summary><strong>MISSION 003 — Container & Cloud-Native</strong></summary>
-
-  - Docker-Images und Container verstehen
-  - Anwendungen containerisieren
-  - Kubernetes-Grundlagen erforschen
-
-  **Status:** `EXPLORING`
-</details>
-
-<details>
-  <summary><strong>MISSION 004 — Infrastructure Automation</strong></summary>
-
-  - Ansible für wiederholbare Konfiguration nutzen
-  - Terraform und Infrastructure as Code verstehen
-  - Infrastruktur reproduzierbar beschreiben
-
-  **Status:** `EXPLORING`
-</details>
-
-<details>
-  <summary><strong>MISSION 005 — AI & LLM Exploration</strong></summary>
-
-  - Funktionsweise großer Sprachmodelle kennenlernen
-  - AI-Tools praktisch ausprobieren
-  - Möglichkeiten zur Automatisierung untersuchen
-
-  **Status:** `RESEARCHING`
-</details>
-
----
-
-<h2 align="center">📡 // GITHUB TELEMETRY</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexxus1984&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=9D7BFF&text_color=8B949E" alt="Nexxus GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-GITHUB-BENUTZERNAME&show_icons=true&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&icon_color=8B5CF6&locale=de" alt="GitHub-Statistiken von Nexxus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexxus1984&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=8B949E" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-GITHUB-BENUTZERNAME&layout=compact&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&langs_count=8" alt="Häufigste Programmiersprachen" />
+</p>
+
+Die Statistik-Karten werden von einem externen Dienst erzeugt. Sie zeigen verfügbare GitHub-Daten und können verzögert laden oder vorübergehend nicht erreichbar sein.
+
+🎯 Next Objectives
+
+Python-Grundlagen festigen
+
+Git und GitHub sicher anwenden
+
+Erste eigene Python-Tools veröffentlichen
+
+Eigene Docker-Images erstellen
+
+Kubernetes-Grundlagen praktisch ausprobieren
+
+Ansible-Playbooks entwickeln
+
+Erste Terraform-Konfigurationen erstellen
+
+Ein kleines KI- oder LLM-Projekt umsetzen
+
+Projekte mit verständlichen READMEs dokumentieren
+
+🪐 Meine Prinzipien
+
+Jede neue Technologie ist eine Gelegenheit, etwas zu lernen.
+Jeder Fehler ist eine Chance, Zusammenhänge besser zu verstehen.
+Jeder kleine Schritt bringt mich meinem Ziel näher.
+
+Explore: neugierig bleiben und neue Ansätze testen.
+
+Build: Wissen in praktische Projekte umsetzen.
+
+Automate: wiederkehrende Aufgaben vereinfachen.
+
+Improve: aus Fehlern lernen und Lösungen verbessern.
+
+📡 Connect
+
+<p align="center">
+  <a href="https://github.com/DEIN-GITHUB-BENUTZERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-0B1224?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub-Projekte" />
+  </a>
 </p>
 
 <p align="center">
-  <code>DATA SOURCE: GITHUB API</code>
+  <sub>🌌 Exploring technology. Building skills. Shaping the future.</sub>
 </p>
 
----
-
-<h2 align="center">🧪 // EXPERIMENTAL ZONE</h2>
-
-Hier entstehen mit der Zeit meine praktischen Projekte:
-
-- **Python Lab** — kleine Tools, Skripte und Automatisierung
-- **Container Lab** — Docker-Experimente und Container-Workflows
-- **Infrastructure Lab** — Ansible- und Terraform-Beispiele
-- **AI Lab** — Experimente mit LLMs und intelligenten Workflows
-- **Homelab** — technische Tests, Dokumentation und neue Ideen
-
-Jedes Repository ist ein weiterer Schritt vom theoretischen Wissen zur praktischen Erfahrung.
-
----
-
-<h2 align="center">🎯 // LONG-TERM OBJECTIVES</h2>
-
-- [ ] Git-Workflows sicher beherrschen
-- [ ] Python-Projekte selbstständig entwickeln
-- [ ] Docker-Container erstellen und betreiben
-- [ ] Kubernetes praktisch kennenlernen
-- [ ] Infrastruktur mit Ansible automatisieren
-- [ ] Terraform für Infrastructure as Code einsetzen
-- [ ] Eigene AI- und LLM-Experimente dokumentieren
-- [ ] Ein wachsendes Portfolio realer Projekte aufbauen
-
----
-
-<h2 align="center">🛸 // OPERATING PRINCIPLES</h2>
-
-<p align="center">
-  <strong>STAY CURIOUS.</strong><br>
-  Understand the system.
-</p>
-
-<p align="center">
-  <strong>BUILD PRACTICALLY.</strong><br>
-  Turn knowledge into working projects.
-</p>
-
-<p align="center">
-  <strong>KEEP ITERATING.</strong><br>
-  Every error is an opportunity to learn.
-</p>
-
----
-
-<p align="center">
-  <code>END OF TRANSMISSION</code>
-</p>
-
-<p align="center">
-  <strong>NEXXUS1984</strong><br>
-  <sub>Exploring technology. One commit at a time.</sub>
-</p>
+<!-- ═══════════════════ END OF NEXXUS ═══════════════════ -->
