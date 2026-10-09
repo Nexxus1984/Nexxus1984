@@ -66,12 +66,6 @@ Kleine Programme und Übungen, um Variablen, Bedingungen, Schleifen und Funktion
 
 **Was ich dabei lerne:** Logisches Denken und grundlegende Programmierkonzepte.
 
-### 🌐 Erste Schritte in der Webentwicklung
-
-Einfache Webseiten mit HTML und CSS sowie erste interaktive Elemente mit JavaScript.
-
-**Was ich dabei lerne:** Struktur, Gestaltung und Interaktivität im Web.
-
 ### 🧩 Kleine praktische Projekte
 
 Ideen, die ich selbstständig umsetzen und nach und nach verbessern möchte.
