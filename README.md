@@ -34,10 +34,8 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 - 🔭 Ich möchte aus Ideen funktionierende Projekte entwickeln.
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/technology_universe.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 🛠️ Technology Universe
 
 ### 💻 Programming & Version Control
 
@@ -56,10 +54,8 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 `Artificial Intelligence` `LLMs` `AI Automation`
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/meine_lernmission.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 🧭 Meine Lernmission
 
 | Bereich | Mein Fokus |
 | --- | --- |
@@ -72,10 +68,8 @@ Mein Ziel ist es, technische Zusammenhänge zu verstehen, praktische Erfahrungen
 | 🤖 AI & LLMs | KI-Anwendungen und Sprachmodelle kennenlernen |
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/mission_log_meine_lernprojekte.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 🧪 Mission Log – Meine Lernprojekte
 
 Hier dokumentiere ich Übungen, Experimente und Projekte, mit denen ich neue Technologien praktisch kennenlerne.
 
@@ -112,10 +106,8 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 > Die Labs sind mein Lernplan. Ich ergänze Links, Ergebnisse und Dokumentationen, sobald die jeweiligen Projekte veröffentlicht sind.
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/github_telemetry.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 📊 GitHub Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nexxus1984&show_icons=true&hide_border=true&bg_color=070D1B&title_color=00D9FF&text_color=C9D8FF&icon_color=8B5CF6&locale=de" alt="GitHub-Statistiken von Nexxus" />
@@ -128,10 +120,8 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 *Die Statistik-Karten werden von einem externen Dienst erzeugt. Sie zeigen verfügbare GitHub-Daten und können verzögert laden oder vorübergehend nicht erreichbar sein.*
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/next_objectives.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 🎯 Next Objectives
 
 - [ ] Python-Grundlagen festigen
 - [ ] Git und GitHub sicher anwenden
@@ -144,10 +134,8 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - [ ] Projekte mit verständlichen READMEs dokumentieren
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/meine_prinzipien.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 🪐 Meine Prinzipien
 
 > Jede neue Technologie ist eine Gelegenheit, etwas zu lernen.
 > Jeder Fehler ist eine Chance, Zusammenhänge besser zu verstehen.
@@ -159,10 +147,8 @@ Die Möglichkeiten großer Sprachmodelle entdecken und kleine KI-Experimente dur
 - **Improve:** aus Fehlern lernen und Lösungen verbessern.
 
 <p align="center">
-  <img src="assets/Nexxus_Trenn.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+  <img src="assets/connect.png" alt="Nexxus — Technology, Automation and AI" width="100%">
 </p>
-
-## 📡 Connect
 
 <p align="center">
   <a href="https://github.com/Nexxus1984">
