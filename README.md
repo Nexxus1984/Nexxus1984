@@ -15,7 +15,9 @@
 ---
 ---
 
-## 👨‍🚀 Über mich
+<p align="center">
+  <img src="assets/über_mich.png" alt="Nexxus — Technology, Automation and AI" width="100%">
+</p>
 
 Willkommen im digitalen Universum von **Nexxus**!
 
